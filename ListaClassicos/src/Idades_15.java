@@ -4,7 +4,7 @@ public class Idades_15 {
 		int idade1 = 0, idadeVelho = 0, idadeNovo = 1000, faixa1 = 0, faixa2 = 0, faixa3 = 0, faixa4 = 0, faixa5 = 0, i = 0;
 		Scanner ler = new Scanner(System.in);
 	
-		while(i <= 5) {
+		while(i <= 15) {
 			System.out.println("Digite sua idade");
 			idade1 = ler.nextInt();
 			
